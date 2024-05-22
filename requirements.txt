@@ -48,7 +48,7 @@ pypykatz==0.5.2; python_version >= "3.6"
 pyspnego==0.3.1; python_version >= "3.6" and python_version < "4.0"
 pytz==2021.3; python_version >= "3.6"
 pywerview==0.3.3
-requests==2.27.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
+requests==2.32.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
 rich==11.0.0; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and python_version >= "3.6"
 six==1.16.0; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.7"
 soupsieve==2.3.1; python_version >= "3.6" and python_full_version > "3.0.0"
